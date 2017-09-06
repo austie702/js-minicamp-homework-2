@@ -5,10 +5,17 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* `for`
+		// A for loop can be thought of as saying "For everything in here, let's do the following:"
 	* `&&`, `||`, `!`
+		// && is equivalent to saying "and" or "also"
+		// || is equivalent to saying "or" or "at the same time, also"
+		// ! is the bang operator, which is is the opposite-day operator. Reversess the truthiness or falsiness of anything it's applied to.
 	* Arrays
+		// An unordered list of any combination of data types.
 	* Git
+		// The software used to create and manipulate code.
 	* GitHub
+		// The cloud service to store and version-control Git code for backup and teamwork purposes.
 
 
 2. Install git.  https://git-scm.com/downloads
